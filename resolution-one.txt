@@ -1,0 +1,4 @@
+resolution:
+-learning code
+-learning python
+-learning software engineer
