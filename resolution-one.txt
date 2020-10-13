@@ -2,3 +2,5 @@ resolution:
 -learning code
 -learning python
 -learning software engineer
+-learning economic inclusive
+-learning digitalization
